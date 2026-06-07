@@ -4,9 +4,8 @@
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
 
 > **Accepted** at the Journal of Systems and Software (Elsevier), 2025.
-> Preprint available at: [arXiv:XXXX.XXXXX](https://arxiv.org/abs/XXXX.XXXXX)
+> Preprint available at: submit/7686306 (processing)
 
-> ⚠️ **Placeholder link**: Replace `arXiv:XXXX.XXXXX` with your arXiv submission ID after uploading the preprint.
 
 FusionVul is a multimodal vulnerability detection framework that integrates sequential syntactic representations (via a pretrained Transformer encoder, UniXcoder) with structural semantics propagated through a Gated Graph Neural Network (GGNN) over Code Property Graphs (CPG). A cross-attention-based feature fusion network (CAFFNet) enables fine-grained cross-modal interaction, and a Sample-Aware Weighting (SaW) strategy aggregates multi-branch predictions at inference time.
 
@@ -26,12 +25,6 @@ FusionVul is a multimodal vulnerability detection framework that integrates sequ
 ---
 
 ## Overview
-
-Source code vulnerability detection is challenged by the scale, structural complexity, and semantic diversity of modern codebases. FusionVul addresses three core limitations of existing approaches:
-
-1. **Implicit or shallow fusion** — existing multimodal methods fuse features via simple concatenation or at the node-embedding stage, without explicitly modeling cross-modal semantic correspondences.
-2. **Fixed branch weighting** — most dual-branch methods apply fixed aggregation weights at inference time, limiting the effective use of fused representations.
-3. **Single-modality bias** — sequential (LCS) and structural (CPG) features each capture complementary aspects of program semantics; neither alone is sufficient for diverse vulnerability patterns.
 
 FusionVul consists of three modules:
 
@@ -266,12 +259,9 @@ If you find this work useful, please cite:
   author    = {Yang, Hongyu and Zhu, Yaping and Luo, Jingchuan and Nomaguchi, Hiroshi and Su, Chunhua and Susilo, Willy},
   journal   = {Journal of Systems and Software},
   publisher = {Elsevier},
-  year      = {2025},
-  doi       = {10.1016/j.jss.XXXX.XXXXXX}
+  year      = {2026},
 }
 ```
-
-> ⚠️ Replace `10.1016/j.jss.XXXX.XXXXXX` with the actual DOI after formal publication.
 
 ---
 
