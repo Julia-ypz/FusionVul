@@ -3,7 +3,7 @@
 [![Paper](https://img.shields.io/badge/Paper-JSS%20Accepted-blue)](https://www.journals.elsevier.com/journal-of-systems-and-software)
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
 
-> **Accepted** at the Journal of Systems and Software (Elsevier), 2025.
+> **Accepted** at the Journal of Systems and Software (Elsevier), 2026.
 > Preprint available at: submit/7686306 (processing)
 
 
