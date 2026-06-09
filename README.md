@@ -4,7 +4,7 @@
 [![Preprint](https://img.shields.io/badge/Preprint-arXiv-red)](https://arxiv.org/abs/XXXX.XXXXX)
 
 > **Accepted** at the Journal of Systems and Software (Elsevier), 2026.
-> Preprint available at: submit/7686306 (processing)
+> Preprint available at: http://arxiv.org/abs/2606.08553
 
 
 FusionVul is a multimodal vulnerability detection framework that integrates sequential syntactic representations (via a pretrained Transformer encoder, UniXcoder) with structural semantics propagated through a Gated Graph Neural Network (GGNN) over Code Property Graphs (CPG). A cross-attention-based feature fusion network (CAFFNet) enables fine-grained cross-modal interaction, and a Sample-Aware Weighting (SaW) strategy aggregates multi-branch predictions at inference time.
